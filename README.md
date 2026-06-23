@@ -9,6 +9,7 @@ It provides an interface for trustless interactions between clients, AI Agents (
 - **[Architecture & Flow Reference](./docs/ARCHITECTURE.md)** — what the app does, what it does **not** do, and the complete operational flow with diagrams (escrow state machine, full lifecycle sequence, ERC-8004 agent flows, Circle wallet flow, job discovery).
 - **[Mnemonic Protocol Extension](./docs/MNEMONIC_EXTENSION.md)** — how verifiable agent memory extends both ERC-8004 and ERC-8183.
 - **[Mnemonic Integration Plan](./docs/INTEGRATION_PLAN.md)** — full build spec: backend proxy, wire formats, code stubs, per-file wiring, the participate-mode confirmation ceremony, security, tests, and a phased checklist.
+- **[Mnemonic Non-Custodial Paradigm (pointer)](./docs/MNEMONIC_NONCUSTODIAL_PARADIGM.md)** — where the non-custodial / self-sovereign target design lives (in the `monorepo` repo) and how Arco plugs in.
 
 ## Features
 
